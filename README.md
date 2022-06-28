@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :mortar_board: Reading Software Engineering | SE (Bsc Hons)
+- :mortar_board: Software Engineering (Bsc Hons) |
 - 🔭 I’m currently working on ReactJS, React Native & SpringBoot
 - 📫 How to reach me: Twitter - https://twitter.com/Pragashraj10 
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/pragash-raj-1b42a1199/
